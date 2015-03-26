@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">@color/blue_grey_600</color>
+    <color name="colorPrimaryDark">@color/blue_grey_900</color>
+    <color name="colorBackground">@color/blue_grey_500</color>
+    <color name="colorAccent">@color/cyan_a400</color>
+    <color name="colorAccentDark">@color/cyan_a700</color>
+
+    <color name="material_drawer_icons">@color/cyan_500</color>
+    <color name="material_drawer_primary_text">@color/black_87</color>
+    <color name="material_drawer_selected_text">@color/cyan_500</color>
+
+
+    <color name="transparent">#00000000</color>
+    <color name="black_87">#dd000000</color>
+    <color name="pink">#FFE91E63</color>
+    <color name="pink_dark">#FFC2185B</color>
+    <color name="pink_light">#FFF8BBD0</color>
+    <color name="yellow">#FFFFEB3B</color>
+    <color name="yellow_dark">#FFFBC02D</color>
+    <color name="blue_grey_400">#FF78909C</color>
+    <color name="blue_grey_500">#FF607D8B</color>
+    <color name="blue_grey_600">#FF546E7A</color>
+    <color name="blue_grey_900">#FF263238</color>
+    <color name="blue">#FF2979FF</color>
+    <color name="teal_a400">#FF1DE9B6</color>
+    <color name="teal_a700">#FF00BFA5</color>
+    <color name="cyan_500">#FF00BCD4</color>
+    <color name="cyan_700">#FF0097A7</color>
+    <color name="cyan_800">#FF00838F</color>
+    <color name="cyan_900">#FF006064</color>
+    <color name="cyan_a400">#FF00E5FF</color>
+    <color name="cyan_a700">#FF00B8D4</color>
+
+</resources>

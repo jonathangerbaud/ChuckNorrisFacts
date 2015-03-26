@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fr.castorflex.android.flipimageview.library.FlipImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fiv="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/imageview"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    style="?android:attr/actionButtonStyle"
+    android:padding="10dp"
+    android:scaleType="centerInside"
+    android:src="@drawable/ic_star_outline_white_24dp"
+    fiv:flipDrawable="@drawable/ic_star_cyana700_24dp"
+    fiv:flipDuration="300"
+    fiv:flipRotations="y"
+    fiv:isAnimated="true"
+    fiv:isFlipped="false"
+    fiv:reverseRotation="true"/>

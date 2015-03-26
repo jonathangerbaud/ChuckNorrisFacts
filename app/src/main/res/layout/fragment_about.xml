@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:paddingTop="?android:attr/actionBarSize"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="center"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/ic_launcher"/>
+
+        <TextView
+            android:paddingTop="16dp"
+            android:fontFamily="sans-serif-light"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chuck Norris Facts"
+            android:textColor="#FFFFFFFF"/>
+
+        <TextView
+            android:fontFamily="sans-serif-light"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="has been developed by"
+            android:textColor="#FFFFFFFF"/>
+
+        <TextView
+            android:fontFamily="sans-serif-light"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jonathan Gerbaud"
+            android:textColor="#FFFFFFFF"/>
+
+        <TextView
+            android:fontFamily="sans-serif-light"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://www.abewy.com"
+            android:autoLink="web"
+            android:textColor="#FFFFFFFF"/>
+
+        <TextView
+            android:paddingTop="16dp"
+            android:fontFamily="sans-serif-light"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The facts are coming from the Internet Chuck Norris Database"
+            android:textColor="#FFFFFFFF"/>
+
+        <TextView
+            android:fontFamily="sans-serif-light"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://www.icndb.com"
+            android:autoLink="web"
+            android:textColor="#FFFFFFFF"/>
+
+        <TextView
+            android:paddingTop="16dp"
+            android:fontFamily="sans-serif-light"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Version 1.0 (1)"
+            android:textColor="#FFFFFFFF"/>
+    </LinearLayout>
+</ScrollView>
